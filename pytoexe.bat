@@ -1,2 +1,2 @@
 @echo off
-python F:\PyToExe\pytoexe.py %*
+python "your path to pyexe.py" %*
