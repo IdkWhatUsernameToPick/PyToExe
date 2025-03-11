@@ -3,6 +3,7 @@ Creator: linktr.ee/cringe2137
 Please put all the files in 1 folder without anything else inside.
 
 If it's your first time, you have to follow some instructions.
+Edit pytoexe.bat and put the location of pytoexe.py where asked to.
 Add the folder containing all the files to the PATH:
 
     Right-click on 'This PC' or 'Computer' and select 'Properties'.
